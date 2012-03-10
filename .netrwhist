@@ -1,3 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/PG/Projects/squadsheet/web'
+let g:netrw_dirhist_2='/Users/PG/Projects/squadsheet/web/client'
+let g:netrw_dirhist_3='/Users/PG/Projects/squadsheet/web/client/js'
+let g:netrw_dirhist_4='/Users/PG/Projects/squadsheet/web/client/js/models'
+let g:netrw_dirhist_5='/private/tmp/test/toto'

@@ -52,6 +52,8 @@ set laststatus=2                  " Show the status line all the time
 
 colorscheme Tomorrow-Night                                                                                                                                              
 
+let mapleader=","
+
 
 " Tab mappings.
 map <leader>tt :tabnew<cr>
